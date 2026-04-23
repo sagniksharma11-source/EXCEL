@@ -22,4 +22,3 @@ This is a **retail analytics project** using Association Rule Mining (Apriori lo
 
 ---
 
-All three are solid academic projects — the TCS dashboard especially pairs perfectly with your equity research interest on your CV!
